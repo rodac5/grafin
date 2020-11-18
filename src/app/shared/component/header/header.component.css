@@ -1,0 +1,13 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.mat-toolbar.mat-pf {
+  background: #001bff;
+  color: #000000;
+}
+
+.mat-toolbar.mat-primary {
+  background: #007bff;
+  color: #fff;
+}
