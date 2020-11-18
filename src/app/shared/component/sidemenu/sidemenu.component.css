@@ -1,4 +1,5 @@
-sidemenu {
-    padding: 20px;
-    height: 100px;
+.hidden {
+  visibility: hidden;
+  width: 1px;
+  height: 1px;
 }

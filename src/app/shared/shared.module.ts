@@ -8,6 +8,7 @@ import { MatMenuModule} from '@angular/material/menu';
 import { MatListModule} from '@angular/material/list';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { RouterModule } from '@angular/router';
+import {MatButtonToggleModule} from '@angular/material/button-toggle'; 
 
 
 import { HeaderComponent } from './component/header/header.component';
@@ -32,6 +33,7 @@ import { SidemenuComponent } from './component/sidemenu/sidemenu.component';
     MatMenuModule,
     MatListModule,
     RouterModule,
+    MatButtonToggleModule,
   ],
   exports: [
     HeaderComponent,
